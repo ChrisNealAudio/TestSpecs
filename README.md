@@ -10,9 +10,9 @@ A function called "concatOdds" takes two arrays of integers as arguments. It sho
 -The code will need to look at both arguments not just one.  
 -The code will need to identify the odd numbers and put them into a new array.  
 -return that new/single array displaying all the odd numbers and not the even numbers  
--if no arguments are givin an error code should come up  
--if there are multiple of the same number we will just use one and not add it up.  
--if user inputs anything other than a number they will get an error msg.  
+-if no arguments are givin, an error code should come up  
+-if there are multiple of the same number, we will just use one and not add it up.  
+-if user inputs anything other than a number, they will get an error msg.  
 
 
 ## shopping cart checkout  
